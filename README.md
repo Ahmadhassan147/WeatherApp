@@ -33,4 +33,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Future Improvements : 
 
-In the future, I plan to enhance this app by adding more detailed weather information, including historical data, forecasts, and alerts. I am excited to continue working with Python and exploring its capabilities in developing more exciting projects.
+In the future, I plan to enhance this app by adding more detailed weather information, including historical data, forecasts, and alerts. I am excited to continue working with Python and exploring its capabilities in developing more exciting projects..
